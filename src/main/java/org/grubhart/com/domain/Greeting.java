@@ -1,5 +1,8 @@
 package org.grubhart.com.domain;
 
+
+
+
 public class Greeting {
 
     private final long id;
